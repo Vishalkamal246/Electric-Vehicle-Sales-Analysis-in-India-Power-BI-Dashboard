@@ -1,0 +1,12 @@
+The dataset contains state-wise Electric Vehicle (EV) sales data in India, with the following
+attributes:
+Year: The year of the sales.
+Month_Name: The month in which sales occurred.
+Date: The specific date of the sales.
+State: The state in India where the sales occurred.
+Vehicle Class: The class of the vehicle (e.g., sedan, SUV, etc.).
+Vehicle Category: The category of the vehicle (e.g., commercial, passenger).
+Vehicle Type: The type of the vehicle (e.g., 2-wheeler, 4-wheeler).
+EV_Sales_Quantity: The quantity of EV sales.
+These attributes help track EV adoption trends across regions and time, enabling deeper
+analysis for forecasting, infrastructure planning, and market strategies.
