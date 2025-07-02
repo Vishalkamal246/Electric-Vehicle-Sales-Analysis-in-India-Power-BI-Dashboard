@@ -1,0 +1,11 @@
+Steps Involved:
+• Data Collection: Gathered state-wise Electric Vehicle (EV) sales data from reliable sources.
+• Data Cleaning: Removed duplicate records, corrected errors, handled missing values, and
+standardized formats using Excel.
+• Data Preparation: Organized the cleaned dataset by states, years, and categories to
+make it ready for visualization.
+• Data Import: Imported the prepared data into Power BI for further analysis.
+• Data Modeling: Created relationships, calculated totals, and added new measures to
+enable deeper insights.
+• Visualization: Designed an interactive Power BI dashboard with maps, charts, tables, and
+filters to display sales trends, state-wise comparisons, and adoption patterns.
